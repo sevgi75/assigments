@@ -9,4 +9,4 @@ https://github.com/sevgi75/ghpages-nested/proje2/
 https://github.com/sevgi75/ghpages-nested/proje/
 
 
-https://github.com/sevgi75/ghpages-nested/deneme/proje/
+https://sevgi75.github.io/ghpages-nested/deneme/proje/
