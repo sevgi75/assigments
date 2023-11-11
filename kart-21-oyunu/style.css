@@ -1,0 +1,29 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("./img/water-1330252_1280.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #010c6f;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
